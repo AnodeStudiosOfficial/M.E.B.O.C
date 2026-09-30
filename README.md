@@ -1,4 +1,4 @@
-# 🛡 M.E.B.O.C - Automatic Data Cleaner
+#  M.E.B.O.C - Automatic Data Cleaner
 
 **M.E.B.O.C** (Milli Eğitim Bilgisayarları Otomatik Temizleyicisi) is a Manifest V3 Chrome extension designed to automatically clear all browsing data, history, cookies, and cache covering "all time" whenever Google Chrome is closed.
 
