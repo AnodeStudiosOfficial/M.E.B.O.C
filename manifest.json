@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "M.E.B.O.C - Otomatik Veri Temizleyici",
+  "short_name": "M.E.B.O.C",
+  "version": "1.1",
+  "description": "M.E.B.O.C: Chrome kapatıldığında tüm tarama geçmişini ve verileri otomatik olarak temizler.",
+  "permissions": [
+    "browsingData",
+    "storage",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "M.E.B.O.C Aktif"
+  }
+}
