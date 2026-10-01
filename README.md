@@ -8,7 +8,7 @@
 -  Lightweight and fast, built on Chrome Extension Manifest V3 standard.
 
 ##  Installation (Developer Mode)
-1. Download or clone this repository to your computer.
+1. Download or clone this repository to your computer from our GitHub page (**download zip**).
 2. Open Google Chrome and navigate to `chrome://extensions`.
 3. Enable **Developer mode** in the top-right corner.
 4. Click **Load unpacked** and select the `MEBOC` project folder.
